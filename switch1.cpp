@@ -3,5 +3,5 @@ using namespace std;
 
 // Deklarasi variabel global
 int kodeJurusan;
-string namaJurus;
+string namaJurusan;
 string statusKuota;
