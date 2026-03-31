@@ -48,7 +48,7 @@ void output() {
 
 int main() {
     input();
-    pilihanJur();
+    pilihanJurusan();
     output();
 
     return 0;
