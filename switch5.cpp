@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     input();
-    pilihanJurusan();
+    pilihanJur();
     output();
 
     return 0;
